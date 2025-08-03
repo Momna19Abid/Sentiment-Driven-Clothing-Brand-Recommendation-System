@@ -1,2 +1,4 @@
 # Sentiment-Driven-Clothing-Brand-Recommendation-System
-This project aims to solve the Real World problem that customers are facing during online shopping is Recommendations of Pakistani Best Brand  according to specified features
+This project aims to solve the Real World problem that customers are facing during online shopping is Recommendations of Pakistani Best Brand  according to specified features like Good Color theme, Bad Color theme, High Fabric Quality,Low Fabric Quality ,Low Price, High Price , Allergic Reaction , Non-Allergic Reaction , Good Customer service ,Bad Customer service etc.
+For this project, Real World data has  been collected from those customers who already have experienced that brands ,as getting reviews from all customers is challenging and time-taking. For research purpose , Top 10 Pakistani brands are considered like Maria.B,SanaSafinaz,Sapphire,Limelight,J.,Bonanza Satrangi,Asim Jofa,Gul Ahmed,khaddi.
+BERT model is used for model training , then deployed with the flask 
