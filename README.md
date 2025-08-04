@@ -81,7 +81,7 @@ This will:
 
 ---
 
-### 📊 Sample Output
+### 📊 Sample Output:
 
 #### 🧾 Input Features:
 
@@ -93,19 +93,19 @@ Maria.B, Sapphire, Limelight
 
 ---
 
-### 📚 Key Concepts
+### 📚 Key Concepts:
 **Sentiment Analysis** – Determine positive or negative sentiment from textual reviews.  
 **BERT** – Pre-trained language model fine-tuned on custom brand feedback data.  
 **Flask** – Lightweight Python framework to deploy ML applications.  
 **Real-World Dataset** – Authentic customer feedback from Top Pakistani clothing brands.  
 
-### 💡 What You’ll Learn
+### 💡 What You’ll Learn???
 - How sentiment analysis works using BERT.
 - How to train a custom classifier on labeled review data.
 - How to deploy a recommendation engine using Flask.
 - How real-world data improves online shopping experiences.
 
-#### 🙌 Author
+#### 🙌 Author:
 👤 Momna Abid 🎓 | Computer Science Graduate | Machine Learning & AI Enthusiast | 🔗 LinkedIn: www.linkedin.com/in/momna-python-ml
 
 ### ⭐️ If you liked this project
@@ -116,9 +116,9 @@ Maria.B, Sapphire, Limelight
 
 ##### 📢 Share your outputs on LinkedIn.
 
-##### 🔧 Feel free to open issues or contribute via Pull RequestsinkedIn.
+##### 🔧 Feel free to open issues or contribute via Pull Requests on LinkedIn.
 
-##### 🔧 Feel free to open issues or contribute via Pull Requests.
+
 
 
 ---
