@@ -45,11 +45,17 @@ We built a sentiment classification system that:
 
 ## 🚀 Getting Started
 
+
+### ✅ Output on GitHub:
+
+---
+
 ### 1. 📥 Clone the Repository
 
+```
 git clone https://github.com/Momna19Abid/Sentiment-Driven-Clothing-Brand-Recommendation-System.git
----
 cd Sentiment-Driven-Clothing-Brand-Recommendation-System
+
 
 
 ### 2. 📦 Create a Virtual Environment (Optional but Recommended)
